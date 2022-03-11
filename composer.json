@@ -2,6 +2,7 @@
   "name": "ninepay/ai-fpt",
   "description": "AI FPT Service",
   "license": "MIT",
+  "version": "v1.0.0",
   "authors": [
     {
       "name": "Ket Nguyen",
@@ -12,7 +13,7 @@
   "require": {
     "php": "^7.1|^8.0",
     "guzzlehttp/guzzle": "^7.0",
-    "nine/core": "^1.0"
+    "ninepay/core": "^1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^8.0"
